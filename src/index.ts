@@ -34,5 +34,5 @@ client.once("ready", () => {
     await handleCommands(client); // Fix: Ensure commands load before login
     handleEvents(client);
 
-    client.login("MTMxMzM4NTc3ODg2MDEzNDQwMA.GlaWlU.AZQJleLOcDmsnK8pXsOtDOHnDjVIKUreXv-qrM");
+    client.login("");
 })();
