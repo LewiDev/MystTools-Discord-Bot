@@ -31,7 +31,7 @@ MystTools/
 ## Why This Bot Exists
 - **MystTools** serves as a foundational Discord bot for automating server tasks and integrating API-based data.
 - The bot is designed to **offload complex operations** to the **Mysthaven API**, improving efficiency.
-- Eventually, **Rank Examiner** will utilize this bot for XP, ranking, and leaderboard functionality.
+- Eventually, **Rank Examiner** will utilize this same API for XP, ranking, and leaderboard functionality.
 
 ## Future Plans
 - **Expand API integration with MysthavenAPI**
